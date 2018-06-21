@@ -16,3 +16,11 @@ Tests of Amazon Lambda using the Serverless Framework.
 ### Required for "Nodejs" testing.
 1. cd nodejs
 2. sls deploy
+
+## Comparative images
+
+### Golang
+![Golang](./img/golang.png "Golang")
+
+### Nodejs
+![Nodejs](./img/nodejs.png "Nodejs")
